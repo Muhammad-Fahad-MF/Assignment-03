@@ -6,7 +6,7 @@ export default function About() {
   return (
     <div>
         <Header></Header>
-        <div className="text-white bg-gradient-to-r from-sky-400/90 to-blue-600/90 text-center py-8 font-extrabold text-4xl font-serif my-1 " style={{backgroundImage:'url("/images/galaxy.jpg")', backgroundRepeat:'no-repeat',backgroundSize: 'cover',  backgroundPosition: 'center',}}>
+        <div className="text-white bg-gradient-to-r from-sky-400/90 to-blue-600/90 text-center py-8 font-extrabold text-4xl font-serif my-1 " style={{backgroundImage:'url("https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")', backgroundRepeat:'no-repeat',backgroundSize: 'cover',  backgroundPosition: 'center',}}>
           <h1>Welcome to About Us!</h1>
           <h1>In this section we provide information of ourselves.</h1>
           <h1>About our organization.</h1>
